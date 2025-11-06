@@ -1,0 +1,6 @@
+# requirements for Mary Naydan's pulp-readers project
+# add project dependencies here
+# we'll keep adding to this file as we go
+
+chandra-ocr
+pandas
